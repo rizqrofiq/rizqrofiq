@@ -3,9 +3,11 @@
  - 🌱 I'm currently diving into Golang, Javascript, and Python.  
  - 💞️ I'm a backend developer at heart, always looking for new challenges to tackle.
  - :computer: Exploring new programming languages and tools is my idea of a good time
- - :mailbox: You can contact me on ...
+ - :mailbox: Contact me on:
  - 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/089699806618)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizqrofiq)
+
 
 [![Rizq Rofiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqrofiq&count_private=true&show_icons=true)](https://github.com/rizqrofiq) 
 
