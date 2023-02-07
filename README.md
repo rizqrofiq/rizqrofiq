@@ -1,15 +1,9 @@
-Hi there! I'm interested in web development and constantly expanding my skills. Currently, I'm delving into the world of Golang, Javascript, and Python.
-
-As a person who loves to try new things and has a passion for computers and technology, I find myself drawn to backend development. I enjoy the challenge of working with databases and creating seamless communication between the frontend and backend.
-
-Through my learning journey, I hope to contribute to the creation of dynamic and efficient web applications that provide a seamless user experience.
-
-
-<!-- # 👋 Hi, I’m Rizqulloh Brilliant 'Ainur Rofiq
-- 👀 I’m interested in web development -->
-<!-- - 🌱 I’m currently learning Golang, Node.js, and Next.js  -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+# 👋 Hi, I’m Rizqulloh Brilliant 'Ainur Rofiq
+ - 👀 I’m a software development enthusiast always eager to try new thingst 
+ - 🌱 I'm currently diving into Golang, Node.js, and Next.js.  
+ - 💞️ I'm a backend developer at heart, always looking for new challenges to tackle.
+ - :computer: Exploring new programming languages and tools is my idea of a good time
+ - 📫 How to reach me ... 
 
 ## Github Stats
 
