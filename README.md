@@ -7,7 +7,7 @@
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqrofiq&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqrofiq&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Rizq Rofiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqrofiq&show_icons=true&theme=algolia)](https://github.com/rizqrofiq) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqrofiq&count_private=true&layout=compact&theme=algolia)](https://github.com/rizqrofiq)
 
 <!---
 rizqrofiq/rizqrofiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
