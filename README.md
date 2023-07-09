@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizqrofiq)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizqrofiq@gmail.com@gmail.com?subject=Assalamualaikum)
 
-[![Rizq Rofiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqrofiq&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/rizqrofiq) 
+[![Rizq Rofiq's GitHub stats](https://github-stats-rizq.vercel.app/api?username=rizqrofiq&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/rizqrofiq) 
 [![Public Repos Most](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqrofiq&layout=compact&theme=codeSTACKr)](https://github.com/rizqrofiq)
 
 <!---
