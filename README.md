@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Rizqulloh Brilliant 'Ainur Rofiq
- - 👀 I’m a software development enthusiast always eager to try new thingst 
+ - 👀 I’m a software development enthusiast since 2018 and always eager to try new things
  - 🌱 I'm currently diving into Golang, Javascript, and Python.  
  - 💞️ I'm a backend developer at heart, always looking for new challenges to tackle.
  - :computer: Exploring new programming languages and tools is my idea of a good time
