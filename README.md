@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizqrofiq@gmail.com@gmail.com?subject=Assalamualaikum)
 
 [![Rizq Rofiq's GitHub stats](https://github-stats-rizq.vercel.app/api?username=rizqrofiq&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr)](https://github.com/rizqrofiq) 
-[![Public Repos Most](https://github-stats-rizq.vercel.app/api/top-langs/?username=rizqrofiq&layout=compact&theme=codeSTACKr)](https://github.com/rizqrofiq)
 
 <!---
 rizqrofiq/rizqrofiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
