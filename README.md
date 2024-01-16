@@ -1,9 +1,7 @@
 ## 👋 Hi, I’m Rizqulloh Brilliant 'Ainur Rofiq
- - 👀 I’m a software development enthusiast since 2018 and always eager to try new things
- - 🌱 I'm currently diving into Golang, Javascript, and Python.  
- - 💞️ I'm a backend developer at heart, always looking for new challenges to tackle.
- - :computer: Exploring new programming languages and tools is my idea of a good time
- - :mailbox: Contact me on:
+ - 👀 Been hooked on software development since 2018, always up for trying out cool new stuff.
+ - 🌱 Right now, I'm digging into Golang, Javascript, and Python.
+ - 💞️ I'm all about that backend life, constantly hunting for exciting challenges.
  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizqrofiq)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizqrofiq@gmail.com@gmail.com?subject=Assalamualaikum)
