@@ -1,7 +1,8 @@
-## 👋 Hi, I’m Rizqulloh Brilliant 'Ainur Rofiq
+## 👋 Hi, I’m 'Ainur Rofiq 
  - 👀 Been hooked on software development since 2018, always up for trying out cool new stuff.
- - 🌱 Right now, I'm digging into Golang, Javascript, and Python.
+ - 🌱 Right now, I'm using Golang, Javascript, Python, and almost any programming languages (depends on client needs).
  - 💞️ I'm all about that backend life, constantly hunting for exciting challenges.
+ - 😎 Now my teammates are often calls me "Palugada Engineer"
  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizqrofiq)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizqrofiq@gmail.com?subject=Assalamualaikum)
