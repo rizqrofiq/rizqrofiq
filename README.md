@@ -3,7 +3,7 @@
  - 🌱 Right now, I'm using Golang, Javascript, Python, and almost any programming languages (depends on client needs).
  - 💞️ I'm all about that backend life, constantly hunting for exciting challenges.
  - 😎 Now my teammates are often calls me "Palugada Engineer"
- 
+ - 🚩 Part of Bangkit 2024 Batch 2
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizqrofiq)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizqrofiq@gmail.com?subject=Assalamualaikum)
 
